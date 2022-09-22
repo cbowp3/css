@@ -1,0 +1,53 @@
+/* Elements */
+h1 {
+    color: peru;
+    font-style: italic;
+    font-size: 500%;
+    outline: auto;
+    outline-color: black;
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+    color: darkred;
+}
+
+
+
+/*class */
+
+.navi{
+  
+    font-size: 125%;
+    text-align: right;
+    list-style-type: none;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.list-animals{
+    text-align: center;
+     color:blue;
+     font-size: 150%;
+}
+
+.selection-form{
+    text-align: center;
+    font-size: 150%;
+    
+}
+
+ /* ID */
+#fav-dog {
+    text-align: center;
+    font-size: 200%;
+    color: blueviolet;
+    }
+    
+ #cat-table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 5px solid green;
+    }
